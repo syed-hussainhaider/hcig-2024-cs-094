@@ -1,2 +1,4 @@
-# Google App Engine generated folder
-appengine-generated/
+/build
+*.o
+__pycache__/
+venv/
